@@ -1,1 +1,2 @@
-# qa
+
+This is an end to end data science project that encompasses the entire process from start to finish. It begins with web scraping passenger reviews from skytrax, followed by cleaning and exploring the dataset. The next steps involve analyzing and visualizing the data to uncover key insights, and finally, building predictive models to forecast whether passengers would recommend Qatar Airways in the future.
