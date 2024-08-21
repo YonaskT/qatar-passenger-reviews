@@ -14,5 +14,8 @@ The attached Tableau Dashboard highlights that Qatar Airways consistently achiev
 
 In summary, the airline emerged as a top performer in the industry, demonstrating high satisfaction and loyalty among its customers. This is particularly evident in its impressive NPS scores for Inflight Entertainment and Staff Service, which reached 71% and 70%, respectively.
 
+![screenshot](screenshot.png)
+
+
 
 
