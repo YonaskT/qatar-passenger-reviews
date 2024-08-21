@@ -1,5 +1,5 @@
 
-This is an end to end data science project that encompasses the entire process from start to finish. It begins with web scraping passenger reviews from [skytrax](https://www.airlinequality.com/review-pages/a-z-airline-reviews/), followed by cleaning and exploring the dataset. The next steps involve analyzing and visualizing the data to uncover key insights, and finally, building predictive models to forecast whether passengers would recommend Qatar Airways in the future.
+This is an end to end data science project that encompasses the entire process from start to finish. It begins with web scraping passenger reviews from [skytrax](https://www.airlinequality.com/review-pages/a-z-airline-reviews/) using beautifulsoup and requests, followed by cleaning and exploring the dataset. The next steps involve analyzing and visualizing the data to uncover key insights, and finally, building predictive models to forecast whether passengers would recommend Qatar Airways in the future.
 
 The factors that play a significant role in passengers' likelihood of recommending Qatar Airways are:
 - Ground Services,
