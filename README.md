@@ -10,11 +10,9 @@ The factors that play a significant role in passengers' likelihood of recommendi
 
 The importance of these features indicates that improvements in these areas could significantly enhance overall passenger satisfaction and recommendation rates.
 
-The [Tableau Dashboard](https://public.tableau.com/app/profile/yonas.tena/viz/QatarAirwaysCustomerReviews/Dashboard1) highlights that Qatar Airways consistently achieved strong NPS scores across various metrics among its passengers. 
+The interactive [Tableau Dashboard](https://public.tableau.com/app/profile/yonas.tena/viz/SASReviews/SAS) shows how the airline fare in each metric.
 
-In summary, the airline emerged as a top performer in the industry, demonstrating high satisfaction and loyalty among its customers. This is particularly evident in its impressive NPS scores for Inflight Entertainment and Staff Service, which reached 71% and 70%, respectively.
-
-![screenshot](screenshot.png)
+![screenshot](screenshot_sas.png)
 
 
 
