@@ -10,9 +10,9 @@ The factors that play a significant role in passengers' likelihood of recommendi
 
 The importance of these features indicates that improvements in these areas could significantly enhance overall passenger satisfaction and recommendation rates.
 
-The interactive [Tableau Dashboard](https://public.tableau.com/app/profile/yonas.tena/viz/SASReviews/SAS) shows how the airline fare in each metric.
+The interactive [Tableau Dashboard](https://public.tableau.com/app/profile/yonas.tena/viz/SASReviews/SAS) highlights that Qatar Airways consistently achieved strong NPS scores across various metrics among its passengers. 
 
-![screenshot](screenshot_sas.png)
+![screenshot](screenshot.png)
 
 
 
